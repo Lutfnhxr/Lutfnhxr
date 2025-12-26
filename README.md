@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,arduino,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,git,arduino,linux,vscode" />
 </p>
 
 ---
@@ -52,7 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutfnhxr&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ## 🔥 GitHub Streak
