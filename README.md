@@ -53,11 +53,11 @@ My hobbies include Network Development, Creating Websites or Frontends, and Part
 
 ---
 
-## 📊 GitHub Stats and ## 🔥 GitHub Streak
+## 📊 GitHub Stats and 🔥 GitHub Streak
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight" width="48%" />
-  &nbsp; &nbsp; &nbsp; 
+  &nbsp; &nbsp;
   <img src="https://streak-stats.demolab.com?user=Lutfnhxr&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
