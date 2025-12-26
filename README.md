@@ -5,9 +5,9 @@
 
 <!-- ===== PROFILE IMAGE ===== -->
 <p align="center">
-  <img src="https://lutfnhxr.github.io/Welcome/passporto.jpg" width="300" style="border-radius:50%;" />
+  <img src="https://lutfnhxr.github.io/Welcome/passporto.jpg" width="350" height="350" style="border-radius: 50%; object-fit: cover;" 
+  />
 </p>
-
 <!-- ===== TYPING EFFECT ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Frontend+Engineer;IoT+Enthusiast;Web+Developer;Telecommunication+Engineering+Student" />
