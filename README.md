@@ -16,11 +16,13 @@
 ---
 
 ## 👨‍💻 About Me
+Hello everyone, my name is Luthfan Ahmad Habibi. I come from Indonesia, specifically in Malang, East Java. I am currently studying at the Malang State Polytechnic, majoring in Electrical Engineering in the Diploma of Telecommunications Engineering program. Previously, I studied Computer & Network Engineering at SMKN 1 Turen, a Vocational High School.
+My hobbies include Network Development, Creating Websites or Frontends, and Participating in Webinars on Cyber Security. I also enjoy Mikrotik IoT. I can also provide software and hardware service for various devices such as Mobile Phones, Laptop, and Other Devices.
 
 🎓 **Computer & Telecommunication Engineering Student**  
-💻 Focus on **Frontend Web Development**, **IoT Systems**, and **Networking**  
+💻 Focus on **Frontend Web Developer**, **IoT Systems**, and **Networking**  
 🚀 Passionate about building **real-world projects**  
-📍 **Malang, Indonesia**  
+📍 **Malang, East Java, Indonesia**  
 📫 **Email:** `luthfanahmad482@gmail.com`
 
 ---
