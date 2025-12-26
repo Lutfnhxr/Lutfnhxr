@@ -5,7 +5,7 @@
 
 <!-- ===== PROFILE IMAGE ===== -->
 <p align="center">
-  <img src="https://lutfnhxr.github.io/Welcome/passporto.jpg" width="250" style="border-radius:50%;" />
+  <img src="https://lutfnhxr.github.io/Welcome/passporto.jpg" width="300" style="border-radius:50%;" />
 </p>
 
 <!-- ===== TYPING EFFECT ===== -->
