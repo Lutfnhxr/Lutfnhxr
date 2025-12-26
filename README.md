@@ -5,7 +5,7 @@
 
 <!-- ===== PROFILE IMAGE ===== -->
 <p align="center">
-  <img src="https://lutfnhxr.github.io/Welcome/passporto.jpg" width="160" style="border-radius:50%;" />
+  <img src="https://lutfnhxr.github.io/Welcome/passporto.jpg" width="300" style="border-radius:50%;" />
 </p>
 
 <!-- ===== TYPING EFFECT ===== -->
@@ -41,9 +41,11 @@ My hobbies include Network Development, Creating Websites or Frontends, and Part
   <a href="https://linkedin.com/in/luthfanahmaddkg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://instagram.com/lutfnhxr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/share/17m9S8R28J/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -51,21 +53,11 @@ My hobbies include Network Development, Creating Websites or Frontends, and Part
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight"
-  referrerpolicy="no-referrer" />
-</p>
+## 📊 GitHub Stats and ## 🔥 GitHub Streak
 
-## 🔥 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight" width="48%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://streak-stats.demolab.com?user=Lutfnhxr&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lutfnhxr&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- ===== FOOTER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
