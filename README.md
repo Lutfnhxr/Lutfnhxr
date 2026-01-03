@@ -11,7 +11,7 @@
     </td>
     <td width="600" style="padding-left: 20px;">
       <h3>👋 Hello, I'm Luthfan!</h3>
-      <p>A passionate <b>Computer & Telecommunication Engineering</b> student at State Polytechnic of Malang. I specialize in building bridge between hardware and software through IoT and modern Web Technologies.</p>
+      <p>A passionate <b>Computer & Telecommunication Engineering</b> student at State Polytechnic of Malang. I specialize in building bridges between hardware and software through IoT and modern Web Technologies.</p>
       <p>
         📍 <b>Location:</b> Malang, East Java, Indonesia<br>
         🎓 <b>Education:</b> Diploma of Telecommunications Engineering<br>
@@ -19,13 +19,13 @@
       </p>
       <p align="left">
         <a href="https://linkedin.com/in/luthfanahmaddkg" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
         <a href="https://instagram.com/lutfnhxr" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
         </a>
         <a href="mailto:luthfanahmad482@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
         </a>
       </p>
     </td>
@@ -43,13 +43,14 @@
 ---
 
 ### 📊 GitHub Analysis
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lutfnhxr&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_id=jan2026" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lutfnhxr&theme=tokyonight&hide_border=true&count_private=true&cache_id=jan2026" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutfnhxr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutfnhxr&layout=compact&theme=tokyonight&hide_border=true&cache_id=jan2026" width="48%" />
 </p>
 
 ---
@@ -59,5 +60,5 @@
 </p>
 
 <p align="center">
-  <font size="2">Created with ❤️ by Lutfnhxr | © 2026</font>
+  <font size="2">Created with ❤️ by <b>Lutfnhxr</b> | © 2026</font>
 </p>
