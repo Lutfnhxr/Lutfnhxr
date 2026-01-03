@@ -9,7 +9,7 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top" width="300">
-      <img src="https://lutfnhxr.github.io/Welcome/passporto.jpg" width="220" style="border-radius: 15px;" />
+      <img src="https://lutfnhxr.github.io/Welcome/passporto.jpg" width="220" style="border-radius: 15px; border: 2px solid #38BDF8;" />
       <br><br>
       <p align="center">
         <a href="https://linkedin.com/in/luthfanahmaddkg"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -17,7 +17,7 @@
       </p>
     </td>
     <td valign="top" style="padding-left: 20px;">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="25" /> Hello, I'm Luthfan Ahmad Habibi!</h3>
+      <h3>👋 Hello, I'm Luthfan Ahmad Habibi!</h3>
       <p>I am a <b>Computer & Telecommunication Engineering</b> student at State Polytechnic of Malang. I am passionate about creating seamless integration between hardware and software through IoT solutions and modern web development.</p>
       
       <ul>
@@ -34,21 +34,19 @@
 
 ### 🛠️ Tech Stack & Digital Toolbox
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter,firebase,arduino,linux,git,vscode,mysql,postman&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter,firebase,arduino,linux,git,vscode,mysql,postman&theme=dark" />
 </p>
 
 ---
 
 ### 📊 GitHub Analysis & Metrics
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lutfnhxr&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=2" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Lutfnhxr&theme=tokyonight&hide_border=true&count_private=true&v=2" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lutfnhxr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutfnhxr&layout=compact&theme=tokyonight&hide_border=true&v=2" width="48%" />
 </p>
 
 ---
