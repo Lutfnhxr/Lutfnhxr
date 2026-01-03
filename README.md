@@ -57,6 +57,6 @@ My hobbies include Network Development, Creating Websites or Frontends, and Part
 ## 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lutfnhxr&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
