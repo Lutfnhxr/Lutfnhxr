@@ -58,6 +58,6 @@ My hobbies include Network Development, Creating Websites or Frontends, and Part
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lutfnhxr&show_icons=true&theme=tokyonight" width="48%" />
   &nbsp; &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Lutfnhxr&theme=tokyonight&hide_border=true&cache_bust=123" width="48%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lutfnhxr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
