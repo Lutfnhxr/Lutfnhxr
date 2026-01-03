@@ -39,15 +39,15 @@ My hobbies include Network Development, Creating Websites or Frontends, and Part
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/luthfanahmaddkg" target="_blank">
+  <a href="https://linkedin.com/in/luthfanahmaddkg" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/lutfnhxr" target="_blank">
+  <a href="https://instagram.com/lutfnhxr" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/share/17m9S8R28J/" target="_blank">
+  <a href="https://www.facebook.com/share/17m9S8R28J/" target="blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
